@@ -1,0 +1,17 @@
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\bin\Debug\net8.0-windows\TextEditior.exe
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\bin\Debug\net8.0-windows\TextEditior.deps.json
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\bin\Debug\net8.0-windows\TextEditior.runtimeconfig.json
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\bin\Debug\net8.0-windows\TextEditior.dll
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\bin\Debug\net8.0-windows\TextEditior.pdb
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.Form1.resources
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.csproj.GenerateResource.cache
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.AssemblyInfoInputs.cache
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.AssemblyInfo.cs
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.dll
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\refint\TextEditior.dll
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.pdb
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.genruntimeconfig.cache
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\ref\TextEditior.dll
+D:\FCI\Level 3.1\CS341 Visual Programming Course\TextEditior\obj\Debug\net8.0-windows\TextEditior.sourcelink.json
