@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FCI\\Level 3.1\\CS341 Visual Programming Course\\TextEditior\\TextEditior.csproj": {}
+    "D:\\Courses\\CS Courses\\Projects\\TextEditior\\TextEditior.csproj": {}
   },
   "projects": {
-    "D:\\FCI\\Level 3.1\\CS341 Visual Programming Course\\TextEditior\\TextEditior.csproj": {
+    "D:\\Courses\\CS Courses\\Projects\\TextEditior\\TextEditior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FCI\\Level 3.1\\CS341 Visual Programming Course\\TextEditior\\TextEditior.csproj",
+        "projectUniqueName": "D:\\Courses\\CS Courses\\Projects\\TextEditior\\TextEditior.csproj",
         "projectName": "TextEditior",
-        "projectPath": "D:\\FCI\\Level 3.1\\CS341 Visual Programming Course\\TextEditior\\TextEditior.csproj",
+        "projectPath": "D:\\Courses\\CS Courses\\Projects\\TextEditior\\TextEditior.csproj",
         "packagesPath": "C:\\Users\\Mohammed Helal\\.nuget\\packages\\",
-        "outputPath": "D:\\FCI\\Level 3.1\\CS341 Visual Programming Course\\TextEditior\\obj\\",
+        "outputPath": "D:\\Courses\\CS Courses\\Projects\\TextEditior\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
